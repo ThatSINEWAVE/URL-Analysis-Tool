@@ -1,0 +1,13 @@
+NEW URL DISCOVERED ON 2024-04-02 04:03:06
+URL: https://nitro-basic[.]ru/
+Domain: nitro-basic[.]ru
+Registrar: REGRU-RU
+Created at: 2024-04-01 14:42:10
+Expires at: 2025-04-01 14:42:10
+Type: Malicious, Malware, Phishing
+IPs: 146.75.120.193, 172.67.170.13, 2a00:f940:2:2:1:1:0:169
+Countries: DE, US, RU
+Scanned at: 2024-04-02 04:03:06
+Screenshot: https://urlscan.io/screenshots/e39e8a9a-83a0-4d17-acb2-08b427e1f4a7.png
+VirusTotal Report: https://www.virustotal.com/gui/url/28b77bbdd56c3dc3cffdc774fc03a77e025666c70e444a75994599eb7e727e36/detection/u-28b77bbdd56c3dc3cffdc774fc03a77e025666c70e444a75994599eb7e727e36-1712030586
+URLScan report: https://urlscan.io/result/e39e8a9a-83a0-4d17-acb2-08b427e1f4a7/
