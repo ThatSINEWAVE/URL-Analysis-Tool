@@ -1,6 +1,10 @@
+<div align="center">
+
 # URL Analysis Tool
 
 This repository contains a Python-based tool for analyzing URLs and detecting potential threats using various cybersecurity services like VirusTotal and URLScan.io. The tool combines the scan results with WHOIS information and provides a user-friendly interface to tweet the analysis findings or custom messages.
+
+</div>
 
 ## Features
 
@@ -9,6 +13,12 @@ This repository contains a Python-based tool for analyzing URLs and detecting po
 - Save the combined analysis results to numbered output files
 - Interact with the Twitter API to post tweets containing the analysis results or custom text
 - User-friendly command-line interface
+
+<div align="center">
+
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
+</div>
 
 ## Repository Structure
 
