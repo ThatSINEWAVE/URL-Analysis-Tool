@@ -33,7 +33,7 @@ This repository contains a Python-based tool for analyzing URLs and detecting po
 
 <div align="center">
 
-# [Join my discord server!](https://discord.gg/2nHHHBWNDw)
+# [Join my discord server](https://discord.gg/2nHHHBWNDw)
 
 </div>
 
