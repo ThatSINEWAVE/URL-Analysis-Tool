@@ -31,6 +31,12 @@ This repository contains a Python-based tool for analyzing URLs and detecting po
 - `configs/`: Directory containing configuration files with API keys for VirusTotal, URLScan.io, and Twitter.
 - `outputs/`: Directory where the analysis results are saved as numbered text files.
 
+<div align="center">
+
+# [Join my discord server!](https://discord.gg/2nHHHBWNDw)
+
+</div>
+
 ## Usage
 
 1. Clone the repository or download the source code.
